@@ -67,7 +67,6 @@
 **Java, Spring Boot, PostgreSQL, REST APIs**
 - Developed a secure Spring Boot REST API for marketplace listings and transactional workflows  
 - Implemented **JWT-based authentication** and AI-driven recommendation insights  
-🔗 (add repo link if public)
 
 ---
 
