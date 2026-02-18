@@ -101,7 +101,7 @@
 ---
 
 ## 📫 How to Reach Me
-- 🌐 Portfolio: https://preview--resume-to-brand-45.lovable.app/  
+- 🌐 Portfolio: (https://asadmalik.lovable.app)
 - 💼 LinkedIn: https://linkedin.com/in/asad-malik  
 - GitHub: https://github.com/asadmx  
 
