@@ -101,7 +101,7 @@
 ---
 
 ## 📫 How to Reach Me
-- 🌐 Portfolio: (https://asadmalik.lovable.app)
+- 🌐 Portfolio: (https://asad-malik.netlify.app/)
 - 💼 LinkedIn: https://linkedin.com/in/asad-malik  
 - GitHub: https://github.com/asadmx  
 
